@@ -1,4 +1,4 @@
-# C# Studies
+# Estudo de C# e .NET
 
 Repositório de estudos de **C#** e **.NET**, com o objetivo de aprimorar e praticar os fundamentos da linguagem e do ecossistema .NET.
 
