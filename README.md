@@ -62,6 +62,7 @@ dotnet run --project Aula01
 | [Aula14](Aula14/) | Estrutura de repetição `for` |
 | [Aula15](Aula15/) | Estrutura de repetição `foreach` |
 | [Aula16](Aula16/) | Arrays: declaração, acesso por índice e `Length` |
+| [Aula17](Aula17/) | Listas com `List<T>`: criação, `Add`, `Remove` e `Count` |
 
 > A tabela será atualizada conforme novas aulas forem adicionadas.
 
