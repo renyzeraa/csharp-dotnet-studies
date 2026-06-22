@@ -56,6 +56,12 @@ dotnet run --project Aula01
 | [Aula08](Aula08/) | Operadores relacionais (`>`, `<`, `==`, `!=`) |
 | [Aula09](Aula09/) | Operadores lógicos (`&&`, `\|\|`) com `if` aninhado |
 | [Aula10](Aula10/) | Calculadora simples com `if`/`else if`/`else` |
+| [Aula11](Aula11/) | Estrutura de seleção `switch` |
+| [Aula12](Aula12/) | Estrutura de repetição `while` |
+| [Aula13](Aula13/) | Estrutura de repetição `do/while` |
+| [Aula14](Aula14/) | Estrutura de repetição `for` |
+| [Aula15](Aula15/) | Estrutura de repetição `foreach` |
+| [Aula16](Aula16/) | Arrays: declaração, acesso por índice e `Length` |
 
 > A tabela será atualizada conforme novas aulas forem adicionadas.
 
