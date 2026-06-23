@@ -64,6 +64,7 @@ dotnet run --project Aula01
 | [Aula16](Aula16/) | Arrays: declaração, acesso por índice e `Length` |
 | [Aula17](Aula17/) | Listas com `List<T>`: criação, `Add`, `Remove` e `Count` |
 | [Aula18](Aula18/) | Arquivos com `System.IO`: criar, escrever, inserir, ler, copiar, mover e excluir |
+| [Aula19](Aula19/) | Lista de compras: listar, adicionar, remover, validar entradas e sair com confirmação |
 
 > A tabela será atualizada conforme novas aulas forem adicionadas.
 
