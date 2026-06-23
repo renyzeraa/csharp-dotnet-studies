@@ -65,6 +65,7 @@ dotnet run --project Aula01
 | [Aula17](Aula17/) | Listas com `List<T>`: criação, `Add`, `Remove` e `Count` |
 | [Aula18](Aula18/) | Arquivos com `System.IO`: criar, escrever, inserir, ler, copiar, mover e excluir |
 | [Aula19](Aula19/) | Lista de compras: listar, adicionar, remover, validar entradas e sair com confirmação |
+| [Aula21](Aula21/) | Projeto em branco para a próxima aula |
 
 > A tabela será atualizada conforme novas aulas forem adicionadas.
 
